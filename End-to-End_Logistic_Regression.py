@@ -32,3 +32,4 @@ def gradient_descent(X, y, theta, alpha, interations):
         print("There")
 
 
+
